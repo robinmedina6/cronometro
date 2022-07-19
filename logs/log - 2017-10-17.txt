@@ -89,14 +89,3 @@
 23:49:29_rjme_ --> se envia datos para modificar campo<--
 23:49:34_rjme_ --> se envia datos para modificar campo<--
 23:49:39_rjme_ --> se envia datos para modificar campo<--
-23:56:39_rjme_ --> se logueo<--
-23:56:40_rjme_ --> se envia datos para modificar campo<--
-23:56:46_rjme_ --> se envia datos para modificar campo<--
-23:56:50_rjme_ --> se envia datos para modificar hacer test<--
-23:56:51_rjme_ --> se envia datos para modificar campo<--
-23:56:58_rjme_ --> se envia datos para modificar campo<--
-23:57:02_rjme_ --> se envia datos para modificar hacer test<--
-23:57:05_rjme_ --> se envia datos para modificar campo<--
-23:57:06_rjme_ --> se envia datos para modificar campo<--
-23:57:10_rjme_ --> se envia datos para modificar campo<--
-23:57:15_rjme_ --> se envia datos para modificar campo<--

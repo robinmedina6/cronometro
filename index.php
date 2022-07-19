@@ -8,7 +8,7 @@ if (isset($_SESSION['nombre'])){
 }else{header("location:login.php");}
 
 
-          $sql="select * from competencia WHERE estado=1 ORDER BY  id DESC";
+          $sql="select * from competencia WHERE estado=1";
 		  $rta=ejecutarsql($sql);
 		  if($rta){
 			  $numrows=mysqli_num_rows($rta);
